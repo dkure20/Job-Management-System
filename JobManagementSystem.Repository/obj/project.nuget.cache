@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "1oZJ0OiYU7+iLAn9FbwbPqBYtYe6uxXQ3J8Q2C7Z2CctFk+rfdMF8pYgozE2fiDUuF56rn1kNbAWgklrTtROBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dkureli\\source\\repos\\JobManagementSystem\\JobManagementSystem.Repository\\JobManagementSystem.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkureli\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\dkureli\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\bin\Debug\net6.0\JobManagementSystem.Repository.deps.json
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\bin\Debug\net6.0\JobManagementSystem.Repository.dll
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\bin\Debug\net6.0\JobManagementSystem.Repository.pdb
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.AssemblyInfo.cs
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.dll
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\refint\JobManagementSystem.Repository.dll
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.pdb
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\ref\JobManagementSystem.Repository.dll
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\bin\Debug\net6.0\JobManagementSystem.Domain.dll
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\bin\Debug\net6.0\JobManagementSystem.Domain.pdb
+C:\Users\dkureli\source\repos\JobManagementSystem\JobManagementSystem.Repository\obj\Debug\net6.0\JobManagementSystem.Repository.csproj.CopyComplete
